@@ -58,7 +58,7 @@ API MACHINE  - https://codeburst.io/this-is-how-easy-it-is-to-create-a-rest-api-
 
 	-receive commands 
 		(allumer) -> print dans l’ecran que la commande a été reçue 
-		(étendre) -> pareil
+		(étendre) -> pareil.
 
 
 BASE DE DONNES (gérée par django)
